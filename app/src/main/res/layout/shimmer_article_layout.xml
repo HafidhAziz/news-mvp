@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_marginRight="100dp"
+        android:layout_height="25dp"
+        android:background="@color/background" />
+
+    <LinearLayout
+        android:layout_marginTop="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@color/background" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+    <View
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:background="@color/background" />
+
+
+</LinearLayout>
+
